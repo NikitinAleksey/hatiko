@@ -9,7 +9,7 @@
 
    ```
    git clone https://github.com/NikitinAleksey/hatiko.git
-   cd your-project-folder-name
+   cd hatiko
    ```
 
 3. **Создайте файл .env и заполните по примеру .env.example**
